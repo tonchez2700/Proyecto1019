@@ -113,4 +113,4 @@
 
 ## Créditos
 Desarrollado por:
-- **2665786** Braulio Vazquez Sarracino
+- **02718744** Eduardo Rafael Toncehz ALonso
